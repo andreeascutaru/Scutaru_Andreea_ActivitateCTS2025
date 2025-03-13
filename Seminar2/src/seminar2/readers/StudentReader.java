@@ -22,10 +22,10 @@ public class StudentReader extends BaseReader{
         while (input.hasNext()) {
             Student student = new Student();
             citireAplicant(student, input);
-            int an_studii = input.nextInt();
+            int anStudii = input.nextInt();
             String facultate = (input.next()).toString();
             student.setFacultate(facultate);
-            student.setAn_studii(an_studii);
+            student.setAnStudii(anStudii);
             studenti.add(student);
         }
         input.close();
