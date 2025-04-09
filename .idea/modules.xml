@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Seminar6/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Seminar6/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderWithAllAttributes/BuilderWithAllAttributes.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderWithAllAttributes/BuilderWithAllAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest1/RepetatTest1.iml" filepath="$PROJECT_DIR$/RepetatTest1/RepetatTest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
