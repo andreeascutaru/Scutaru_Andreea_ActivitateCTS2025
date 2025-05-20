@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/AdapterB5/AdapterB5.iml" filepath="$PROJECT_DIR$/RepetatTest2/AdapterB5/AdapterB5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderWithAllAttributes/BuilderWithAllAttributes.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderWithAllAttributes/BuilderWithAllAttributes.iml" />
@@ -10,10 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar9/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Facade_A6/Facade_A6.iml" filepath="$PROJECT_DIR$/RepetatTest2/Facade_A6/Facade_A6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar10/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/RepetatTest1/RepetatTest1.iml" filepath="$PROJECT_DIR$/RepetatTest1/RepetatTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/RepetatTest2.iml" filepath="$PROJECT_DIR$/RepetatTest2/RepetatTest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11/Seminar11.iml" filepath="$PROJECT_DIR$/Seminar11/Seminar11.iml" />
